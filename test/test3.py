@@ -5,7 +5,7 @@ import threading
 import pyautogui  # pip install pyautogui
 
 text = ""
-webhook_url = "https://discord.com/api/webhooks/1355216328000147518/roTzaF_CSKbMcOpD0pETxOuWlt8jQKNWE1b39g8sKC70GG43S6zo3t3cFtGS5N0XHGyb"
+webhook_url = "discord_webhook_url"
 time_interval = 7
 
 # Ensure the 'images' folder exists
