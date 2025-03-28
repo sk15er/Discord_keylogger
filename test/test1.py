@@ -3,7 +3,7 @@ import requests
 import threading
 
 text = ""
-webhook_url = "https://discord.com/api/webhooks/1355214135079469218/bmd6jVlDc8ibAo18U0G47e7LQvD9TWFv-TXU1zY-0yA3PMyxiyBqW7eGMATuTzAo7RKx"
+webhook_url = "enter_the_discord_url"
 time_interval = 5
 
 def send_data():
