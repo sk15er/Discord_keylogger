@@ -1,4 +1,6 @@
 # Discord Keylogger
+### ![image](https://github.com/user-attachments/assets/e2cca18c-0593-40bd-997e-0b15f9b868d3)
+
 
 **Disclaimer:** _This project is intended for educational purposes only. Unauthorized use without explicit consent is illegal and unethical. Always ensure you have the necessary permissions before deploying this tool._
 
